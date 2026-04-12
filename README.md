@@ -6,6 +6,7 @@ I am uploading my daily progress in Machine Learning.
 
 - Day 01: Diabetes Prediction (Logistic Regression)
 - Day 02: Gold Price Prediction (Linear Regression)
+- Day 03: Real Gold Price Prediction 
 
 ---
 
